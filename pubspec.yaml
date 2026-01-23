@@ -18,10 +18,6 @@ dependencies:
   # QR Code Generator (kompatibel mit Flutter 2.x)
   qr_flutter: ^4.0.0
 
-  # Firebase (kompatibel mit Flutter 2.x)
-  firebase_core: ^2.4.1
-  firebase_database: ^10.0.6
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
