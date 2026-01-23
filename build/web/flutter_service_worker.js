@@ -31,10 +31,10 @@ const RESOURCES = {"assets/assets/zapp_logo.png": "a559a1b00b56b90e18081556099b1
 "canvaskit/canvaskit.wasm": "9b6a7830bf26959b200594729d73538e",
 "canvaskit/skwasm_heavy.js": "740d43a6b8240ef9e23eed8c48840da4",
 "canvaskit/skwasm.js": "8060d46e9a4901ca9991edd3a26be4f0",
-"index.html": "dc6369bbc9f78a448825e72cdc55e0ac",
-"/": "dc6369bbc9f78a448825e72cdc55e0ac",
+"index.html": "8a13f3b64eeab5fecc3092c2eca7e46b",
+"/": "8a13f3b64eeab5fecc3092c2eca7e46b",
 "main.dart.js": "f1c5dd12d19b128cbad9621c74857187",
-"flutter_bootstrap.js": "3fc687a0d85dea73ca17e9fddc3dc807",
+"flutter_bootstrap.js": "e4d1ce3daa8cc32a69a8262b155d4b70",
 "version.json": "322dfa94430cc69aa45ce83495f46466",
 "manifest.json": "8e66e1314dbabf0aa13062137d7bf013",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e"};
